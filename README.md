@@ -11,4 +11,6 @@ It will have a clean, polished, and responsive user interface.
 * User is presented with a score at the end of the game
 
 ## Screenshot and deployable URL
-deployable URL: 
+deployable URL: https://nicholaszervos.github.io/code-quiz/
+
+<img width="1723" alt="Screen Shot 2022-07-14 at 6 59 26 PM" src="https://user-images.githubusercontent.com/105948652/179112583-fe54c301-5dff-4c17-b387-0b5f0baa6c6f.png">
